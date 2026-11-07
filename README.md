@@ -1,1 +1,2 @@
-# Triton-NeuroTech: Biologically plausible learning vs. traditional backpropagation
+# Triton NeuroTech: 
+Biologically plausible learning vs. traditional backpropagation
